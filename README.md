@@ -89,7 +89,7 @@ coursequest-lite/
 3. Create a `.env` file in the backend directory with the following variables:
    ```env
    DATABASE_URL=your_neon_postgresql_connection_string
-   OPENAI_API_KEY=your_openai_api_key
+   INGEST_TOKEN = "  "
    PORT=4000
    NODE_ENV=development
    ```
