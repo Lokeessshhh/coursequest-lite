@@ -1,0 +1,78 @@
+course_id,course_name,department,level,delivery_mode,credits,duration_weeks,rating,tuition_fee_inr,year_offered
+CS101,Introduction to Programming,Computer Science,UG,online,4,12,4.2,45000,2023
+MGT201,Strategic Management,Management,PG,offline,6,16,4.5,125000,2022
+EE301,Digital Signal Processing,Electrical Engineering,PG,hybrid,5,14,4.1,98000,2024
+ART101,History of Art,Arts,UG,online,3,8,4.3,35000,2021
+DES202,User Experience Design,Design,UG,hybrid,4,10,4.6,65000,2023
+LAW401,Constitutional Law,Law,PG,offline,6,18,4.4,180000,2020
+MED501,Human Anatomy,Medicine,UG,offline,6,24,4.7,195000,2022
+COM101,Financial Accounting,Commerce,UG,online,3,10,4.0,32000,2024
+CS301,Machine Learning,Computer Science,PG,hybrid,5,16,4.8,142000,2023
+MGT101,Principles of Management,Management,UG,offline,4,12,3.9,48000,2021
+EE201,Circuit Analysis,Electrical Engineering,UG,online,4,14,4.2,52000,2022
+ART301,Contemporary Literature,Arts,PG,hybrid,3,12,4.4,75000,2024
+DES401,Graphic Design Studio,Design,PG,offline,5,20,4.5,118000,2023
+LAW201,Criminal Law Procedures,Law,UG,online,4,16,4.1,85000,2019
+MED301,Pharmacology,Medicine,PG,offline,6,18,4.6,165000,2021
+COM201,Corporate Finance,Commerce,PG,hybrid,5,14,4.3,95000,2025
+CS201,Data Structures,Computer Science,UG,offline,4,12,4.4,55000,2022
+MGT301,Operations Management,Management,PG,online,5,16,4.2,135000,2020
+EE101,Basic Electrical Engineering,Electrical Engineering,UG,hybrid,3,10,3.8,42000,2023
+ART201,Philosophy and Ethics,Arts,UG,online,3,8,4.0,38000,2024
+DES101,Design Fundamentals,Design,UG,offline,4,12,4.1,58000,2021
+LAW301,International Law,Law,PG,hybrid,6,20,4.7,175000,2022
+MED201,Pathology,Medicine,UG,offline,5,16,4.5,145000,2023
+COM301,Advanced Taxation,Commerce,PG,online,4,12,4.2,88000,2019
+CS401,Software Engineering,Computer Science,PG,hybrid,6,18,4.6,155000,2024
+MGT401,Leadership and Change,Management,PG,offline,5,14,4.8,148000,2021
+EE401,Power Systems,Electrical Engineering,PG,online,5,16,4.3,112000,2025
+ART401,Cultural Studies,Arts,PG,hybrid,4,14,4.1,82000,2020
+DES301,Motion Graphics,Design,PG,offline,5,16,4.4,125000,2022
+LAW101,Legal Research Methods,Law,UG,online,3,8,3.9,68000,2023
+MED401,Clinical Medicine,Medicine,PG,offline,6,22,4.9,185000,2024
+COM401,Investment Analysis,Commerce,PG,hybrid,5,18,4.5,138000,2021
+CS501,Artificial Intelligence,Computer Science,PG,online,6,20,4.7,168000,2022
+MGT501,Global Business Strategy,Management,PG,offline,6,16,4.6,162000,2023
+EE501,VLSI Design,Electrical Engineering,PG,hybrid,5,18,4.2,128000,2020
+ART501,Comparative Literature,Arts,PG,online,4,12,4.3,92000,2025
+DES501,Brand Identity Design,Design,PG,offline,5,20,4.8,145000,2019
+LAW501,Intellectual Property Law,Law,PG,hybrid,6,18,4.4,192000,2021
+MED101,Basic Human Biology,Medicine,UG,online,4,10,4.0,78000,2024
+COM501,Financial Risk Management,Commerce,PG,offline,6,16,4.7,152000,2022
+CS102,Web Development,Computer Science,UG,hybrid,4,14,4.1,47000,2023
+MGT102,Marketing Fundamentals,Management,UG,online,3,10,3.8,44000,2020
+EE102,Electronic Devices,Electrical Engineering,UG,offline,4,12,4.3,49000,2025
+ART102,World History,Arts,UG,hybrid,3,8,4.2,36000,2021
+DES102,Digital Art Techniques,Design,UG,online,4,12,4.0,62000,2022
+LAW102,Legal Writing,Law,UG,offline,2,6,3.7,58000,2024
+MED102,Medical Terminology,Medicine,UG,hybrid,3,8,4.1,72000,2023
+COM102,Business Statistics,Commerce,UG,online,4,10,3.9,35000,2019
+CS302,Database Systems,Computer Science,PG,offline,5,16,4.5,132000,2020
+MGT302,Human Resource Management,Management,PG,hybrid,4,14,4.2,118000,2025
+EE302,Communication Systems,Electrical Engineering,PG,online,5,18,4.4,125000,2021
+ART302,Modern Poetry,Arts,PG,offline,3,10,4.6,78000,2022
+DES302,Interior Design,Design,PG,hybrid,5,18,4.3,135000,2023
+LAW302,Commercial Law,Law,PG,online,5,16,4.1,158000,2024
+MED302,Diagnostic Medicine,Medicine,PG,offline,6,20,4.8,175000,2020
+COM302,International Trade,Commerce,PG,hybrid,4,14,4.4,105000,2021
+CS103,Mobile App Development,Computer Science,UG,online,4,16,4.3,52000,2025
+MGT103,Entrepreneurship,Management,UG,offline,3,12,4.5,46000,2022
+EE103,Microprocessors,Electrical Engineering,UG,hybrid,4,14,4.1,54000,2023
+ART103,Creative Writing,Arts,UG,online,3,10,4.4,41000,2019
+DES103,Photography,Design,UG,offline,4,12,4.2,59000,2024
+LAW103,Family Law,Law,UG,hybrid,4,14,3.8,72000,2021
+MED103,Nutrition Science,Medicine,UG,online,3,12,4.0,68000,2020
+COM103,E-commerce,Commerce,UG,offline,4,10,4.1,43000,2025
+CS104,Cybersecurity Basics,Computer Science,UG,hybrid,4,12,4.6,48000,2022
+MGT104,Project Management,Management,UG,online,4,14,4.3,51000,2023
+EE104,Renewable Energy Systems,Electrical Engineering,UG,offline,5,16,4.4,58000,2024
+ART104,Music Theory,Arts,UG,hybrid,3,8,4.0,39000,2018
+DES104,Fashion Design,Design,UG,online,5,18,4.5,67000,2021
+LAW104,Environmental Law,Law,UG,offline,4,12,4.2,76000,2022
+MED104,Public Health,Medicine,UG,hybrid,4,14,4.1,82000,2025
+COM104,Supply Chain Management,Commerce,UG,online,4,12,3.9,47000,2020
+CS105,Cloud Computing,Computer Science,UG,offline,5,16,4.7,56000,2023
+MGT105,Business Ethics,Management,UG,hybrid,3,10,4.1,42000,2019
+EE105,Automation Systems,Electrical Engineering,UG,online,4,14,4.3,53000,2024
+ART105,Theatre Arts,Arts,UG,offline,4,16,4.2,45000,2021
+DES105,Game Design,Design,UG,hybrid,5,20,4.8,74000,2025
