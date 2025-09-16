@@ -29,7 +29,7 @@ console.log('🔧 Setting up middleware...');
 // Enable CORS for cross-origin requests (useful for frontend integration)
 app.use(cors({
   origin: NODE_ENV === 'production' 
-    ? process.env.FRONTEND_URL || 'https://your-frontend-domain.com'
+    ? process.env.FRONTEND_URL || 'https://coursequest-lite-1.onrender.com/'
     : ['http://localhost:3000', 'http://localhost:3001', 'http://localhost:5173'], // Added Vite default port
   credentials: true
 }));
