@@ -43,7 +43,8 @@ const Filters = ({ onFiltersChange, initialFilters = {} }) => {
 
   const fetchFilterOptions = async () => {
     try {
-      const response = await fetch('http://localhost:4000/api/filter-options')
+      const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:4000";
+      const response = await fetch(`${API_BASE}/api/filter-options`)
       if (response.ok) {
         const data = await response.json()
         if (

@@ -77,7 +77,8 @@ const SearchPage = () => {
     
     try {
       const queryString = buildQueryParams(filtersObj, page)
-      const response = await fetch(`http://localhost:4000/api/courses?${queryString}`)
+      const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:4000";
+      const response = await fetch(`${API_BASE}/api/courses?${queryString}`)
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)

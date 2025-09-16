@@ -21,7 +21,8 @@ const ComparePage = () => {
     setError(null)
     try {
       const ids = compareList.join(',')
-      const response = await fetch(`http://localhost:4000/api/compare?ids=${ids}`)
+      const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:4000";
+      const response = await fetch(`${API_BASE}/api/compare?ids=${ids}`)
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
